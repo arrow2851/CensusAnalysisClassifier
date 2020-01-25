@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567377251197.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E7F02957",
+    "lastKnownWriteTime" : 1568390768,
+    "last_content_update" : 1568390768845,
+    "path" : "D:/Important/Data Mining/Project 1/Census Analysis Project DM/TestFiles.R",
+    "project_path" : "TestFiles.R",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
